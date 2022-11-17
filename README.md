@@ -1,2 +1,2 @@
 # docker-jenkins-tutorial
-### Source of tutorial https://www.youtube.com/watch?v=mszE-OCI2V4 and https://github.com/Java-Techie-jt/docker-jenkins-integration-sample/
+##### Consulted the following sources: https://www.youtube.com/watch?v=PKcGy9oPVXg and https://github.com/Java-Techie-jt/devops-automation
